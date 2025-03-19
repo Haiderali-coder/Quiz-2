@@ -1,0 +1,5 @@
+c:\users\riphah\documents\visual studio 2015\Projects\quiz\quiz\bin\Debug\quiz.exe.config
+c:\users\riphah\documents\visual studio 2015\Projects\quiz\quiz\obj\Debug\quiz.csprojResolveAssemblyReference.cache
+c:\users\riphah\documents\visual studio 2015\Projects\quiz\quiz\obj\Debug\quiz.Form1.resources
+c:\users\riphah\documents\visual studio 2015\Projects\quiz\quiz\obj\Debug\quiz.Properties.Resources.resources
+c:\users\riphah\documents\visual studio 2015\Projects\quiz\quiz\obj\Debug\quiz.csproj.GenerateResource.Cache
